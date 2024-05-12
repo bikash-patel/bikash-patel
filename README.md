@@ -1,4 +1,4 @@
-![logo](https://github.com/bikash-patel/bikash-patel/blob/main/Banner.jpg?raw=true)
+![logo](https://github.com/bikash-patel/bikash-patel/blob/main/Ban.jpg?raw=true)
 # 💫 About Me:
 <h1 align="center">**Bikash Patel**</h1>
 <h3 align="center">A passionate backend developer from India</h3>
